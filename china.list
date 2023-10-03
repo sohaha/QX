@@ -1,0 +1,9 @@
+#!name=🍟 Fries: 🌐 个人分流
+#!desc=域名直连
+#!author=seekwe
+#!homepage=https://github.com/sohaha
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+
+
+DOMAIN-SUFFIX,73zls.com
+DOMAIN-SUFFIX,73zls.com,DIRECT
