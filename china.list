@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,streamlit.app,DIRECT
 DOMAIN-SUFFIX,streamlit.io,DIRECT
 
 DOMAIN-SUFFIX,alicdn.com,DIRECT
+DOMAIN-SUFFIX,onedrive.com,DIRECT
+DOMAIN-SUFFIX,windows.com,DIRECT
 
 DOMAIN-SUFFIX,i.video.qq.com,自定义
 
