@@ -35,3 +35,4 @@ DOMAIN-SUFFIX,i.video.qq.com,自定义
 
 
 DOMAIN-SUFFIX,ad.12306.cn,REJECT
+DOMAIN-SUFFIX,ingest.sentry.io,REJECT
