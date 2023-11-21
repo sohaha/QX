@@ -12,7 +12,9 @@ DOMAIN-SUFFIX,0xsys.com,DIRECT
 DOMAIN-SUFFIX,todesktop.com,DIRECT
 DOMAIN-SUFFIX,buy.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,alicdn.com,DIRECT
-DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,cdn.ynuf.aliapp.org,DIRECT
+DOMAIN,taobao.com,DIRECT
+DOMAIN,eco.taobao.com,DIRECT
 
 DOMAIN-SUFFIX,warp.dev,DIRECT
 DOMAIN-SUFFIX,streamlit.app,DIRECT
