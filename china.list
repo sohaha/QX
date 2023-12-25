@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,bilibili.com,哔哩哔哩
 
 DOMAIN-SUFFIX,ad.12306.cn,REJECT
 DOMAIN-SUFFIX,ingest.sentry.io,REJECT
+DOMAIN-SUFFIX,update.parallels.com,REJECT
