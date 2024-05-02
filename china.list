@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,vscode-unpkg.net,DIRECT
 DOMAIN-SUFFIX,i.video.qq.com,个性服务
 DOMAIN-SUFFIX,openai.com,个性服务
 
+
+DOMAIN-SUFFIX,vercel.app,全球加速
+
 DOMAIN-SUFFIX,bilibili.com,哔哩哔哩
 
 DOMAIN-SUFFIX,ad.12306.cn,REJECT
