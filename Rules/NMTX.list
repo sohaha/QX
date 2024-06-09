@@ -345,6 +345,12 @@ DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-KEYWORD,openx,REJECT
 DOMAIN-KEYWORD,admob,REJECT
 DOMAIN-KEYWORD,qtmojo,REJECT
+DOMAIN,finderv1.video.qq.com,DIRECT
+DOMAIN,finderks.video.qq.com,DIRECT
+DOMAIN-SUFFIX,livep.l.ott.video.qq.com,REJECT
+DOMAIN-SUFFIX,lives.l.cp81.ott.cibntv.net,REJECT
+DOMAIN-SUFFIX,lives.l.ott.video.qq.com,REJECT
+DOMAIN-SUFFIX,vv.video.qq.com,REJECT
 
 //UA
 USER-AGENT,TuneIn%20Radio*,Proxy
