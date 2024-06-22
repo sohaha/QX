@@ -44,7 +44,7 @@ DOMAIN,imp.optaim.com,REJECT
 DOMAIN,mmg.aty.sohu.com,REJECT
 DOMAIN,vsohu.admaster.com.cn,REJECT
 DOMAIN,push.mobile.meituan.com,REJECT
-DOMAIN,lives.l.qq.com,REJECT
+# DOMAIN,lives.l.qq.com,REJECT
 DOMAIN,omgmta.qq.com,REJECT
 DOMAIN,pingma.qq.com,REJECT
 DOMAIN,tajs.qq.com,REJECT
@@ -168,7 +168,7 @@ DOMAIN,api.segment.io,REJECT
 DOMAIN,api.instabug.com,REJECT
 DOMAIN,adlog.flurry.com,REJECT
 DOMAIN,ads.flurry.com,REJECT
-DOMAIN,v.gdt.qq.com,REJECT
+# DOMAIN,v.gdt.qq.com,REJECT
 DOMAIN,sd.domob.cn,REJECT
 DOMAIN,pub.funshion.com,REJECT
 DOMAIN,adm.funshion.com,REJECT
@@ -350,7 +350,7 @@ DOMAIN,finderks.video.qq.com,DIRECT
 DOMAIN-SUFFIX,livep.l.ott.video.qq.com,REJECT
 DOMAIN-SUFFIX,lives.l.cp81.ott.cibntv.net,REJECT
 DOMAIN-SUFFIX,lives.l.ott.video.qq.com,REJECT
-DOMAIN-SUFFIX,vv.video.qq.com,REJECT
+# DOMAIN-SUFFIX,vv.video.qq.com,REJECT
 
 //UA
 USER-AGENT,TuneIn%20Radio*,Proxy
