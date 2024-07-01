@@ -40,7 +40,7 @@ hostname = *.gotokeep.com, *.*xima*.*, *.xmcdn.com, api.hanju.koudaibaobao.com, 
 
 
 # 黄油相机
-^https:\/\/api4\.bybutter\.com\/v4\/* url script-response-body https://raw.githubusercontent.com/Toovooo/Rules/master/Script/hy.js
+# ^https:\/\/api4\.bybutter\.com\/v4\/* url script-response-body https://raw.githubusercontent.com/Toovooo/Rules/master/Script/hy.js
 
 
 # ✅ 百度网盘(倍速)
