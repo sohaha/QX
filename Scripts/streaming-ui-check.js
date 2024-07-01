@@ -1,5 +1,6 @@
 /***
 
+https://qx.v.73zls.com/Rules/NMTX.list
 Thanks to & modified from 
 1. https://gist.githubusercontent.com/Hyseen/b06e911a41036ebc36acf04ddebe7b9a/raw/nf_check.js
 2. https://github.com/AtlantisGawrGura/Quantumult-X-Scripts/blob/main/media.js
