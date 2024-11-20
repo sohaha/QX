@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,orbstack.dev,DIRECT
 DOMAIN-SUFFIX,vscode-unpkg.net,DIRECT
 DOMAIN-SUFFIX,electronjs.org,DIRECT
 DOMAIN-SUFFIX,vscode-unpkg.net,DIRECT
+DOMAIN-SUFFIX,open-vsx.org,DIRECT
 
 DOMAIN-SUFFIX,i.video.qq.com,个性服务
 DOMAIN-SUFFIX,openai.com,个性服务
